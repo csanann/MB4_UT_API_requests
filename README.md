@@ -4,7 +4,7 @@ This repository contains a practice exercise to learn how to unit test API reque
 ## Purpose
 The purpose of t his practice is to learn how to test code that relies on external APIs while ensuring that tests remain deterministic and isolated from external dependencies.
 
-## Goad
+## Goal
 1. Learn how to use dependency injection to replace actual API calls with test doubles.
 2. Understand the importance of controlling external dependencies in  unit tests.
 3. Become familiar with RSpec's syntax and features for testing and stubbing.
